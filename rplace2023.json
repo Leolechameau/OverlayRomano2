@@ -10,15 +10,6 @@
       "y": 1
     }
   ],
-    "whitelist": [
-    {
-	"name": "Catalogne",
-	"url":  "https://rentry.co/placecat/raw"
-    },
-    {
-	"name": "WCA - World Cube Association",
-	"url":  "https://rentry.co/WCA2/raw"
-    }
-  ],
-  "blacklist": []
+	"whitelist": [],
+  	"blacklist": []
 }
