@@ -4,10 +4,10 @@
     {
       "name": "Place Quebec",
       "sources": [
-        "https://github.com/Leolechameau/OverlayRomano2/blob/main/Overlay.png?raw=true"
+        "https://github.com/Leolechameau/OverlayRomano2/blob/main/Overlay.png"
       ],
-      "x": 1953,
-      "y": 1100
+      "x": 1,
+      "y": 1
     }
   ],
     "whitelist": [
